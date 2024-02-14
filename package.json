@@ -7,6 +7,10 @@
     "./01-hello-world": {
       "import": "./dist/01-hello-world/index.js",
       "types": "./dist/01-hello-world/index.d.ts"
+    },
+    "./02-stop": {
+      "import": "./dist/02-stop/index.js",
+      "types": "./dist/02-stop/index.d.ts"
     }
   },
   "scripts": {

@@ -20,3 +20,13 @@ node ./dist/01-hello-world/index.js
 ```
 
 Afin de quitter l'application, il faut appuyer sur `Ctrl + C`
+
+# 02 - Stop
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/01-hello-world/index.js
+```
+
+L'applicaiton s'arrête automatiquement après 5 secondes.
