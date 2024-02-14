@@ -11,6 +11,10 @@
     "./02-stop": {
       "import": "./dist/02-stop/index.js",
       "types": "./dist/02-stop/index.d.ts"
+    },
+    "./03-warn": {
+      "import": "./dist/03-warn/index.js",
+      "types": "./dist/03-warn/index.d.ts"
     }
   },
   "scripts": {
