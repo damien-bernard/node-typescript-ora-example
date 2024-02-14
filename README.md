@@ -30,3 +30,13 @@ node ./dist/02-stop/index.js
 ```
 
 L'applicaiton s'arrête automatiquement après 5 secondes.
+
+# 03 - Warn
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/03-warn/index.js
+```
+
+L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'alerte.
