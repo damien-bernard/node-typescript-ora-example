@@ -50,3 +50,13 @@ node ./dist/04-succeed/index.js
 ```
 
 L'applicaiton s'arrête automatiquement après 5 secondes avec un message de succès.
+
+# 05 - Info
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/05-info/index.js
+```
+
+L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'information.

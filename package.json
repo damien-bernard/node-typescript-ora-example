@@ -19,6 +19,10 @@
     "./04-succeed": {
       "import": "./dist/04-succeed/index.js",
       "types": "./dist/04-succeed/index.d.ts"
+    },
+    "./05-info": {
+      "import": "./dist/05-info/index.js",
+      "types": "./dist/05-info/index.d.ts"
     }
   },
   "scripts": {
