@@ -29,7 +29,7 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/02-stop/index.js
 ```
 
-L'applicaiton s'arrête automatiquement après 5 secondes.
+L'application s'arrête automatiquement après 5 secondes.
 
 # 03 - Warn
 
@@ -39,7 +39,7 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/03-warn/index.js
 ```
 
-L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'alerte.
+L'application s'arrête automatiquement après 5 secondes avec un message d'alerte.
 
 # 04 - Succeed
 
@@ -49,7 +49,7 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/04-succeed/index.js
 ```
 
-L'applicaiton s'arrête automatiquement après 5 secondes avec un message de succès.
+L'application s'arrête automatiquement après 5 secondes avec un message de succès.
 
 # 05 - Info
 
@@ -59,14 +59,24 @@ Pour lancer l'application, il faut exécuter la commande suivante :
 node ./dist/05-info/index.js
 ```
 
-L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'information.
+L'application s'arrête automatiquement après 5 secondes avec un message d'information.
 
 # 06 - Fail
 
 Pour lancer l'application, il faut exécuter la commande suivante :
 
 ```bash
-node ./dist/6-fail/index.js
+node ./dist/06-fail/index.js
 ```
 
-L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'échec.
+L'application s'arrête automatiquement après 5 secondes avec un message d'échec.
+
+# 07 - Update text
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/07-update-text/index.js
+```
+
+Après 5 secondes, le message est mis à jour. L'application s'arrête automatiquement après 10 secondes.
