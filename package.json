@@ -23,6 +23,10 @@
     "./05-info": {
       "import": "./dist/05-info/index.js",
       "types": "./dist/05-info/index.d.ts"
+    },
+    "./06-fail": {
+      "import": "./dist/06-fail/index.js",
+      "types": "./dist/06-fail/index.d.ts"
     }
   },
   "scripts": {

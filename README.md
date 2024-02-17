@@ -60,3 +60,13 @@ node ./dist/05-info/index.js
 ```
 
 L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'information.
+
+# 06 - Fail
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/6-fail/index.js
+```
+
+L'applicaiton s'arrête automatiquement après 5 secondes avec un message d'échec.
