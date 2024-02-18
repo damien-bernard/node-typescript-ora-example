@@ -35,6 +35,10 @@
     "./08-color": {
       "import": "./dist/08-color/index.js",
       "types": "./dist/08-color/index.d.ts"
+    },
+    "./09-interval": {
+      "import": "./dist/09-interval/index.js",
+      "types": "./dist/09-interval/index.d.ts"
     }
   },
   "scripts": {
