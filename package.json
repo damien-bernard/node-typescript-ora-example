@@ -31,6 +31,10 @@
     "./07-update-text": {
       "import": "./dist/07-update-text/index.js",
       "types": "./dist/07-update-text/index.d.ts"
+    },
+    "./08-color": {
+      "import": "./dist/08-color/index.js",
+      "types": "./dist/08-color/index.d.ts"
     }
   },
   "scripts": {
