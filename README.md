@@ -80,3 +80,13 @@ node ./dist/07-update-text/index.js
 ```
 
 Après 5 secondes, le message est mis à jour. L'application s'arrête automatiquement après 10 secondes.
+
+# 08 - color
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/08-color/index.js
+```
+
+Après 5 secondes, la couleur changera. L'application s'arrête automatiquement après 10 secondes.
