@@ -100,3 +100,13 @@ node ./dist/09-interval/index.js
 ```
 
 L'application s'arrête automatiquement après 5 secondes.
+
+# 10 - Frames
+
+Pour lancer l'application, il faut exécuter la commande suivante :
+
+```bash
+node ./dist/10-frames/index.js
+```
+
+L'application s'arrête automatiquement après 5 secondes.
