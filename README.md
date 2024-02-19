@@ -2,7 +2,7 @@
 
 Ce repository contient des exemples d'utilisation de la librairie `ora`
 
-# Lancer l'application
+# Compiler l'application
 
 Afin de compiler l'application, il faut exécuter les commandes suivantes :
 
