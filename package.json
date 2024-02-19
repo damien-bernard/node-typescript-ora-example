@@ -39,6 +39,10 @@
     "./09-interval": {
       "import": "./dist/09-interval/index.js",
       "types": "./dist/09-interval/index.d.ts"
+    },
+    "./10-frames": {
+      "import": "./dist/10-frames/index.js",
+      "types": "./dist/10-frames/index.d.ts"
     }
   },
   "scripts": {
